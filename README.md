@@ -1,4 +1,4 @@
-# Ransomware Detection and Family Classification Using Machine Learning
+# AI-Driven Ransomware Detection: Enhancing Cyber Resilience for a Safer Society
 
 ## Project Description
 
