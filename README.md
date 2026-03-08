@@ -36,7 +36,7 @@ Among these algorithms, **XGBoost achieved the highest accuracy and F1-score**.
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/ransomware-detection-project.git
+git clone https://github.com/KeerthiNune/AI-Driven-Ransomware-Detection-Enhancing-Cyber-Resilience-for-a-Safer-Society.git
 
 ### Step 2: Navigate to Project Folder
 
