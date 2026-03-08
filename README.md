@@ -75,7 +75,11 @@ However, while ransomware detection works reliably, the model may occasionally m
 ## Author
 
 Nune Keerthi
+
 Naru Venkata Naga Sai Prasanna Varshini
+
 Peddiboyina Pujitha
+
 Vendra Usha Sri
+
 Putrevu Sathwika
